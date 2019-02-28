@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/zal2.dir/zach_wydluzanie.cpp.o  -o zal2 

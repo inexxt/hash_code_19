@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jacek/hash_code_19/jk/zach_wydluzanie.cpp
+iostream
+-
+vector
+-
+unordered_set
+-
+unordered_map
+-
+algorithm
+-
+

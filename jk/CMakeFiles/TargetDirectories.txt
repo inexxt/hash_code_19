@@ -1,0 +1,3 @@
+/home/jacek/hash_code_19/jk/CMakeFiles/rebuild_cache.dir
+/home/jacek/hash_code_19/jk/CMakeFiles/zal2.dir
+/home/jacek/hash_code_19/jk/CMakeFiles/edit_cache.dir
